@@ -3,7 +3,9 @@ open source deployment server like vercel to deploy git repo's on your own serve
 
 # Application
 
-    This application is a simplified version of Vercel, allowing users to install, run, and manage Git repositories as projects. It provides a user-friendly interface for deploying and managing web applications.
+    This application is a simplified version of Vercel, allowing users to install, run, and manage 
+    Git repositories as projects. It provides a user-friendly interface for deploying and managing 
+    web applications.
 
     ## Features
 
